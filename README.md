@@ -1,5 +1,5 @@
 # bits
 A place to store bits of information about programming. \
-Mainly for myself so I dont have to regoogle everything.
+Basically, a reference for myself so I don't have to re-google everything.
 
 
