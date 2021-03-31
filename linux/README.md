@@ -4,15 +4,16 @@ I'm using Ubuntu.
 
 ## basic terminal stuff
 
-| command                                | result                                                                        |
-| -------------------------------------- | ----------------------------------------------------------------------------- |
-| `... \| less`                          | pipe to less, for displaying text. Space = next page, b = last page, q = quit |
-| `ps -a`, `kill <pid>`, `kill -9 <pid>` | kill a process                                                                |
-| `Shift + Strg + W`                     | close window                                                                  |
-| `Super + D`                            | minimize/maximize all                                                         |
-| `Strg + W`                             | close tab                                                                     |
-| `grep -- -O`                           | the two -- tells grep that the rest are not options                           |
-| `<command> &`                          | creates a background process, so you can continue in shell                    |
+| command                                | result                                                                          |
+| -------------------------------------- | ------------------------------------------------------------------------------- |
+| `... \| less`                          | pipe to less, for displaying text. Space = next page, b = last page, q = quit   |
+| `ps -a`, `kill <pid>`, `kill -9 <pid>` | kill a process                                                                  |
+| `Shift + Strg + W`                     | close window                                                                    |
+| `Super + D`                            | minimize/maximize all                                                           |
+| `Strg + W`                             | close tab                                                                       |
+| `grep -- -O`                           | the two -- tells grep that the rest are not options                             |
+| `... \| grep <search> -C5`             | show 5 lines of context (before and after match). Only before -B. Only after -A |
+| `<command> &`                          | creates a background process, so you can continue in shell                      |
 
 ## coding
 
